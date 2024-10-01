@@ -1,11 +1,40 @@
-![Cyber Buddy]([https://d2pn8kiwq2w21t.cloudfront.net/original_images/main_image_star-forming_region_carina_nircam_final-5mb.jpg](https://pin.it/6wYo2bzsy))
+![Cyber Buddy](https://d2pn8kiwq2w21t.cloudfront.net/original_images/main_image_star-forming_region_carina_nircam_final-5mb.jpg)
 
-# <h3> Hey,
-👀 I’m interested in Network Security and Secure Software Development.
+# Hey`,
+**👀 I’m interested in _Network Security_ and _Secure Software_ Development.**
   
-Here I am like to share my thoughts and resources based on Cyber Security.
+#### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
-<!---
-mr-Tony-ship-it/mr-Tony-ship-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
+
+[redirect](redirect)
+
+##### Interesting linux commands
+```
+who
+locate
+netstat
+ifconfig
+```
+
+##### In windows
+`ipconfig`
+
+# Happy
+
+People like to be happy every time, so we can make plans as well as find better solutions for issues in current scenario.
+
+
+# Money
+
+I want and you need the sources to generate incomes to survive in the world, To make that or achieve that goal we have to start preparations and also
+strive to find better career.
+
+<a name="what-is-future-plan"></a>
+
+Just Enjoy each moment of my life, deep dive into happyness and pains.
+
+
+<email@gmail.com>
+<a href="email@gmail.com">email@gmail.com</a>
+
