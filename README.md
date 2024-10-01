@@ -5,8 +5,7 @@
   
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
-[happy](#happy)
-[money](#money)
+[happy](#happy)  [money](#money)
 
 ##### Interesting linux commands
 ```
