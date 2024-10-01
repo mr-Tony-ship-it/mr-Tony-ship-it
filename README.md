@@ -5,7 +5,7 @@
   
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
-[happy](#happy)  [money](#money)
+[happy](#happy)  [money](#money)   <a name="what-is-future-plan"></a>
 
 [redirect](redirect)
 
@@ -29,4 +29,8 @@ People like to be happy every time, so we can make plans as well as find better 
 
 I want and you need the sources to generate incomes to survive in the world, To make that or achieve that goal we have to start preparations and also
 strive to find better career.
+
+# What is future plan
+
+Just Enjoy each moment of my life, deep dive into happyness and pains.
 
