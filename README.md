@@ -1,4 +1,4 @@
-![Cyber Buddy]([https://www.jpl.nasa.gov/news/nasa-reveals-webb-telescopes-first-images-of-unseen-universe/](https://d2pn8kiwq2w21t.cloudfront.net/original_images/main_image_star-forming_region_carina_nircam_final-5mb.jpg))
+![Cyber Buddy]((https://d2pn8kiwq2w21t.cloudfront.net/original_images/main_image_star-forming_region_carina_nircam_final-5mb.jpg)
 
 # <h3> Hey,
 👀 I’m interested in Network Security and Secure Software Development.
