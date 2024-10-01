@@ -30,7 +30,11 @@ People like to be happy every time, so we can make plans as well as find better 
 I want and you need the sources to generate incomes to survive in the world, To make that or achieve that goal we have to start preparations and also
 strive to find better career.
 
-<a name="what-is-future-plan">Future</a>
+<a name="what-is-future-plan"></a>
 
 Just Enjoy each moment of my life, deep dive into happyness and pains.
+
+
+<email@gmail.com>
+<a href="email@gmail.com"></a>
 
