@@ -6,7 +6,7 @@
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
 ##### Interesting linux commands
-'''
+```
 who
 locate
 netstat
