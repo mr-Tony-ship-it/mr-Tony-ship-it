@@ -5,6 +5,9 @@
   
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
+[happy](#happy)
+[money](#money)
+
 ##### Interesting linux commands
 ```
 who
@@ -17,7 +20,12 @@ ifconfig
 `ipconfig`
 
 # Happy
+
+People like to be happy every time, so we can make plans as well as find better solutions for issues in current scenario.
+
+
 # Money
 
-[happy](#happy)
-[money](#money)
+I want and you need the sources to generate incomes to survive in the world, To make that or achieve that goal we have to start preparations and also
+strive to find better career.
+
