@@ -5,6 +5,9 @@
   
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+
 [happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
 
 [redirect](redirect)
