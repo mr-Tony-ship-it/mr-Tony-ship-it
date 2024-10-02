@@ -45,3 +45,10 @@ Just Enjoy each moment of my life, deep dive into happyness and pains.
 <email@gmail.com>
 <a href="email@gmail.com">email@gmail.com</a>
 
+|Code|Discritption|
+|---|---|
+|ls|List all files and dir in current locaation|
+|netcat|reverse connection establisher|
+|nmap|network scanning tool|
+
+
