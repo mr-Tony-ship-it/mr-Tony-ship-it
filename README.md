@@ -10,6 +10,7 @@ The background color is `#ffffff` for light mode  for dark mode.
 >[!NOTE]
 >Try to understand first then follow it.
 
+Let's rename \*our-new-project\* to \*our-old-project\*.
 
 [happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
 
