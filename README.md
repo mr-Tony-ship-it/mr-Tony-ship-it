@@ -1,9 +1,60 @@
-![Cyber Buddy](https://d2pn8kiwq2w21t.cloudfront.net/original_images/main_image_star-forming_region_carina_nircam_final-5mb.jpg)
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [20,77],
+              [20,80],
+              [20,85],
+              [15,70],
+              [15,65]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+
+
+
+![Cyber Buddy](https://d2pn8kiwq2w21t.cloudfront.net/original_images/main_image_star-forming_region_carina_nircam_final-5mb.jpg?height=300&width=500)
 
 # Hey`,
 **👀 I’m interested in _Network Security_ and _Secure Software_ Development.**
   
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
+
+
+<details>
+  <summary>Hey check collapse</summary>
+  
+  ##### nothing special haha
+
+  ```ruby
+       puts "how are you"
+  ```
+
+```python
+print("My dear friends")
+```
+
+</details>
+
+>[!NOTE]
+>Try to understand first then follow it.
+
+Let's rename *our-new-project* to *our-old-project*.
 
 [happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
 
@@ -37,4 +88,11 @@ Just Enjoy each moment of my life, deep dive into happyness and pains.
 
 <email@gmail.com>
 <a href="email@gmail.com">email@gmail.com</a>
+
+|Code|Discritption|
+|:---:|:---|
+|ls|List all files and dir in current locaation|
+|netcat|reverse connection establisher|
+|nmap|network scanning tool|
+
 
