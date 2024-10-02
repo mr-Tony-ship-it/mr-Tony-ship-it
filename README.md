@@ -5,14 +5,20 @@
   
 #### Here I am like to share my <sup>thoughts</sup> and <sub>resources</sub> related on Cyber Security.
 
-The background color is `#ffffff` for light mode  for dark mode.
+
 <details>
   <summary>Hey check collapse</summary>
+  
   ##### nothing special haha
 
-  ```
+  ```ruby
        puts "how are you"
   ```
+
+```python
+print("My dear friends")
+```
+
 </details>
 
 >[!NOTE]
