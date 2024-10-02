@@ -8,9 +8,9 @@
 The background color is `#ffffff` for light mode  for dark mode.
 <details>
   <summary>Hey check collapse</summary>
-  #### nothing special haha
+  ##### nothing special haha
 
-  ```ruby
+  ```
        puts "how are you"
   ```
 </details>
