@@ -9,6 +9,8 @@ The background color is `#ffffff` for light mode  for dark mode.
 
 >[!NOTE]
 >Try to understand first then follow it.
+
+
 [happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
 
 [redirect](redirect)
