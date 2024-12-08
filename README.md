@@ -54,7 +54,7 @@ print("My dear friends")
 >[!NOTE]
 >Try to understand first then follow it.
 
-Let's rename *our-new-project* to *our-old-project*.
+Let's rename *our-old-project* to *our-new-project*.
 
 [happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
 
