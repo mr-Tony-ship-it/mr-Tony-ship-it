@@ -58,7 +58,7 @@ Let's rename *our-old-project* to *our-new-project*.
 
 [happy](#happy)  [money](#money)   [Future](#what-is-future-plan)
 
-[redirect](redirect)
+[Overthink Until get there Looll](https://youtu.be/BWRdkQ-ha00?si=RMd1iyaQsjSSOVGZ)
 
 ##### Interesting linux commands
 ```
@@ -87,7 +87,7 @@ Just Enjoy each moment of my life, deep dive into happyness and pains.
 
 
 <email@gmail.com>
-<a href="email@gmail.com">email@gmail.com</a>
+<a href="email@gmail.com"Try to understand first then follow it.>email@gmail.com</a>
 
 |Code|Discritption|
 |:---:|:---|
