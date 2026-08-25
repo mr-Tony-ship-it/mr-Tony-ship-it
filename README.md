@@ -83,15 +83,11 @@ strive to find better career.
 
 <a name="what-is-future-plan"></a>
 
-Just Enjoy each moment of my life, deep dive into happyness and pains.
-
-
-<email@gmail.com>
-<a href="email@gmail.com"Try to understand first then follow it.>email@gmail.com</a>
+Just Enjoy each moment of my life, deep dive into happiness and pains.
 
 |Code|Discritption|
 |:---:|:---|
-|ls|List all files and dir in current locaation|
+|ls|List all files and dir in current location|
 |netcat|reverse connection establisher|
 |nmap|network scanning tool|
 
